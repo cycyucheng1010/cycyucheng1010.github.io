@@ -10,10 +10,13 @@ Hi I'm Rick and I'm glad to have this opportunity to introduce myself, I will be
 And I live in Hsinchu, Taiwan.
 
 ## Education
-## work experience
-
+Graduated from Hsinchu Municipal Hsiang Shan High School
 ## experience
-
-## skills and competencies
-
+* Ranked fifth in sophomore year of college
+* ASVDA college certificate of compeletion 'Deep learning for Industrial Big Data'
+* TQC 'Mobile Device Application' Professional Level
+* Center for Taiwan Academic Research Ethics Education Certificate of Completion
+* completed the sessions of 'Human Research Ethics'
 ## interests
+* sports
+* music 
