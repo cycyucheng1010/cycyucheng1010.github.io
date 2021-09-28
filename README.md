@@ -1,4 +1,4 @@
-# Welcome to my web
+# Rick Chen's Web
 ## personal information
 * Name: Yu Cheng Chen
 <img style=" align=right;" src=https://github.com/cycyucheng1010/cycyucheng1010.github.io/blob/main/o20200513170148.jpg width="150" high="150" alt="my_photo">
