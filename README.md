@@ -1,5 +1,6 @@
 # Rick Chen's Web
 
+![pic1](https://github.com/cycyucheng1010/cycyucheng1010.github.io/blob/main/o20200513170148.jpg)
 ## personal information
 * Name: Yu Cheng Chen
 * Phone Number:  +886 976382114
